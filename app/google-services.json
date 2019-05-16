@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930030631358",
+    "firebase_url": "https://komunikator-1a4e0.firebaseio.com",
+    "project_id": "komunikator-1a4e0",
+    "storage_bucket": "komunikator-1a4e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930030631358:android:54310692908ca37a",
+        "android_client_info": {
+          "package_name": "com.example.komunikator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930030631358-o1bb0n95id5hg987mmbih39nrjd0rg4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.komunikator",
+            "certificate_hash": "007dddacc0a2c9cfae7918e96fa031a17b23fa16"
+          }
+        },
+        {
+          "client_id": "930030631358-emb8sjtlrn1at1fo92qtlndbiq39lis4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DOQku5VkPAGLWtFxMSRCaXPPx3Vziqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930030631358-emb8sjtlrn1at1fo92qtlndbiq39lis4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

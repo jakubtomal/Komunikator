@@ -44,7 +44,7 @@ public class SettingsActivity extends AppCompatActivity {
         rootRef = FirebaseDatabase.getInstance().getReference();
 
         InitializeFields();
-        
+
 
         updateAccountSettings.setOnClickListener(new View.OnClickListener() {
             @Override
